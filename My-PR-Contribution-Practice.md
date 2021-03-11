@@ -50,6 +50,9 @@ ________________________________________________________________________________
 - [Naman Gupta](https://github.com/namangupta1399)
   <p>Bio: Computer Science Undergraduate, Aspiring Web Developer.</p>
   
+- [Ontiveros Nereo](https://github.com/NereoOntiveros)
+  <p>Bio: Software Developer graduate, open to explore web development either Frontend or Backend. Interested in contributing opensource to grow.</p>
+  
 - [Shivam Chandra](https://github.com/magicBeans23)
   <p>Bio: I am a backend develepor. </p>
   
